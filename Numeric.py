@@ -4,6 +4,6 @@ for i in n:
     if i in l:
         s="yes"
     else:
-        s="no"
+        s="No"
         break
 print(s)
