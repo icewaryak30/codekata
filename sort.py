@@ -1,3 +1,9 @@
 n=int(input())
 x=[int(i) for i in input().split()]
-print(sorted(x))
+c=sorted(x)
+for i in range(0,len(c)):
+	if i==0:
+		print(c[i],end="")
+	else:
+		print("",c[i],end="")
+	
