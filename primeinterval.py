@@ -12,4 +12,4 @@ for x in range(0,len(l)):
 	if x==0:
 		print(l[x],end="")
 	else:
-		print(" ",l[x],end="")
+		print("",l[x],end="")
