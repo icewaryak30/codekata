@@ -1,7 +1,7 @@
 n=int(input())
 rev,rem=0,0
 num=n
-if n<=1000:
+if n<=10000:
 	while n!=0:
 		rem=n%10
 		rev=rem+rev*10
