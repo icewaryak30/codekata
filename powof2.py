@@ -1,6 +1,6 @@
 #ice
 n=int(input())
-for i in range(1,1000):
+for i in range(0,1000):
     if 2**i==n:
         s="yes"
         break
