@@ -1,3 +1,4 @@
+#ice
 r,s=map(str,input().split())
 if len(s)>=len(r):
     print(s)
