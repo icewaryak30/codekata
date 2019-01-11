@@ -1,3 +1,4 @@
+#ice
 n=int(input())
 l=[]
 while n>0:
