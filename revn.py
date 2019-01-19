@@ -1,3 +1,3 @@
-#ice
+#ice...
 s=input()
 print(s[::-1])
