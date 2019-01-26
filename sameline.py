@@ -10,3 +10,5 @@ for i in range(3):
         c=c+1
 if c==3:
     print("yes")
+else:
+    print("no")
