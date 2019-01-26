@@ -8,6 +8,8 @@ for i in range(3):
         c=c+1
     elif l[i][1]==l[0][1]:
         c=c+1
+    elif l[i][0]==l[i][1]:
+        c=c+1
 if c==3:
     print("yes")
 else:
