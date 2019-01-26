@@ -2,6 +2,6 @@
 n,k=map(int,input().split())
 x=[int(i) for i in input().split()]
 if k in x:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
